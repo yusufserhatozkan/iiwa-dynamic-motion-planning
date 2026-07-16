@@ -1,1 +1,0 @@
-/root/ws/devel/.private/iiwa_description/lib/pkgconfig/iiwa_description.pc

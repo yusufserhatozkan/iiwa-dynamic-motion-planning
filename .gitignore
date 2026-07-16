@@ -1,0 +1,20 @@
+# Catkin workspace build artifacts
+**/ws/build/
+**/ws/devel/
+**/ws/logs/
+**/ws/.catkin_tools/
+motion-planning-2/build/
+motion-planning-2/devel/
+
+# Gazebo runtime logs and cache
+motion-planning-1/gazebo/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
