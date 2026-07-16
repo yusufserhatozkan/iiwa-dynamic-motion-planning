@@ -6,6 +6,8 @@ The project compares intrinsically optimized sampling-based planners (RRT*, PRM*
 
 This was a group project for Project 3-1 at Maastricht University, developed together with Tristan Dormans, Tomasz Mizera, Alex Andreescu, Nishan Mistry and Maarten Kooij. Original team repository: [Arezim/Project-3-1](https://github.com/Arezim/Project-3-1).
 
+Full write-up: [project report (PDF)](docs/Dynamic_Collaborative_Motion_Planning_in_a_Factory_Workspace.pdf).
+
 ## Repository layout
 
 ```
